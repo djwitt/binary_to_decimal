@@ -1,5 +1,4 @@
 def bin_to_dec(bin_nums):
-    """the native function `bin()` will achieve the exact same result"""
 
     base_two = 2
     bin_len = len(bin_nums)
